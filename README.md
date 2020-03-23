@@ -8,7 +8,7 @@ Home Page: http://vtdev.com/mceliecehome.html
 Library API: http://www.vtdev.com/McEliece/Help/index.html
 
 ##Status
-This repository is obsolete, and ramains online only for historical purposes.
+This repository is obsolete, and remains online only for historical purposes.
 Please refer to the McEliece implementation in CEX++ (McEliece NIST PQ R2).
 
 ## License
